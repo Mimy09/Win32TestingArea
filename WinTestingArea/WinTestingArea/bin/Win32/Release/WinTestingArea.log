@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(367,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+MyWindow.obj : error LNK2001: unresolved external symbol "public: void __thiscall tk::GSM::SetState(char *)" (?SetState@GSM@tk@@QAEXPAD@Z)
+MyWindow.obj : error LNK2001: unresolved external symbol "public: void __cdecl tk::GSM::SetState(int,...)" (?SetState@GSM@tk@@QAAXHZZ)
+MyWindow.obj : error LNK2001: unresolved external symbol "public: bool __thiscall tk::GSM::addState(char *,int)" (?addState@GSM@tk@@QAE_NPADH@Z)
+MyWindow.obj : error LNK2001: unresolved external symbol "public: void __thiscall tk::GSM::SetSize(int)" (?SetSize@GSM@tk@@QAEXH@Z)
+MyWindow.obj : error LNK2001: unresolved external symbol "public: __thiscall tk::GSM::~GSM(void)" (??1GSM@tk@@QAE@XZ)
+MyWindow.obj : error LNK2001: unresolved external symbol "public: __thiscall tk::GSM::GSM(void)" (??0GSM@tk@@QAE@XZ)
+C:\Users\s171816\Desktop\win32WindowLib\WinTestingArea\WinTestingArea_BUILD\WinTestingArea_Win32.exe : fatal error LNK1120: 6 unresolved externals

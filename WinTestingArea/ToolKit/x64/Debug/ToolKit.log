@@ -1,0 +1,17 @@
+﻿  tkWinObject.cpp
+d:\programfiles\programming\_git\win32lib\win32windowlib\wintestingarea\toolkit\tkwinobject.cpp(100): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\programfiles\programming\_git\win32lib\win32windowlib\wintestingarea\toolkit\tkwinobject.cpp(111): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  tkWindow.cpp
+d:\programfiles\programming\_git\win32lib\win32windowlib\wintestingarea\toolkit\tkwindow.cpp(11): warning C4312: 'type cast': conversion from 'LONG' to 'tk::win::Window *' of greater size
+d:\programfiles\programming\_git\win32lib\win32windowlib\wintestingarea\toolkit\tkwindow.cpp(17): warning C4311: 'type cast': pointer truncation from 'LPVOID' to 'LONG'
+d:\programfiles\programming\_git\win32lib\win32windowlib\wintestingarea\toolkit\tkwindow.cpp(69): warning C4244: 'argument': conversion from 'WPARAM' to 'UINT', possible loss of data
+d:\programfiles\programming\_git\win32lib\win32windowlib\wintestingarea\toolkit\tkwindow.cpp(72): warning C4244: 'argument': conversion from 'WPARAM' to 'UINT', possible loss of data
+d:\programfiles\programming\_git\win32lib\win32windowlib\wintestingarea\toolkit\tkwindow.cpp(73): warning C4244: 'argument': conversion from 'WPARAM' to 'UINT', possible loss of data
+d:\programfiles\programming\_git\win32lib\win32windowlib\wintestingarea\toolkit\tkwindow.cpp(74): warning C4244: 'argument': conversion from 'WPARAM' to 'UINT', possible loss of data
+d:\programfiles\programming\_git\win32lib\win32windowlib\wintestingarea\toolkit\tkwindow.cpp(75): warning C4244: 'argument': conversion from 'WPARAM' to 'UINT', possible loss of data
+d:\programfiles\programming\_git\win32lib\win32windowlib\wintestingarea\toolkit\tkwindow.cpp(76): warning C4244: 'argument': conversion from 'WPARAM' to 'UINT', possible loss of data
+  tkHashTable.cpp
+  tkGSM.cpp
+d:\programfiles\programming\_git\win32lib\win32windowlib\wintestingarea\toolkit\tkgsm.cpp(30): warning C4800: 'u_int': forcing value to bool 'true' or 'false' (performance warning)
+  Generating Code...
+  ToolKit.vcxproj -> D:\ProgramFiles\Programming\_GIT\Win32Lib\win32WindowLib\WinTestingArea\ToolKit_bin\ToolKit_x64_DEBUG.lib
